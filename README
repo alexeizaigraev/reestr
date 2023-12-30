@@ -1,2 +1,2 @@
-Замена базы данных MongoDB
+Замена базы данных MongoDB -
 на Posstgresql с библиотекой pg-promise
